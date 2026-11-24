@@ -1,0 +1,13 @@
+{
+  "name": "foodtime-devops",
+  "version": "1.0.0",
+  "description": "Aplicação de exemplo para o pipeline DevOps do FoodTime",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
