@@ -4,7 +4,9 @@
   "description": "Aplicação de exemplo para o pipeline DevOps do FoodTime",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "test": "echo \"Teste OK\"",
+    "start": "node src/index.js",
+    "build": "npm install && echo \"Build completed\""
   },
   "license": "ISC",
   "dependencies": {
